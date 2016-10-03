@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Blog do Lucão
 tagline:          'Bugador!'
 description:      'Bugador!'
-url:              https://lucrib.github.io/blog
-baseurl:          /
+url:              https://lucrib.github.io
+baseurl:          /blog/
 
 author:
   name:           'Lucas Ribeiro'
