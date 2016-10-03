@@ -23,9 +23,9 @@ version:          00.01.00-ALPHA_1
 
 # Social media #################################################################
 github:
-  repo:           https://github.com/lucrib
+  repo:           https://github.com/lucrib/blog/
 linkedin:
-  link:           https://br.linkedin.com/in/lucasribeirotester/en
+  link:           https://br.linkedin.com/in/lucasribeirotester/en/
 
 #Gems ##########################################################################
 gems: [
