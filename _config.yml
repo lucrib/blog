@@ -3,14 +3,14 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks ###################################################################
-permalink:        pretty
+permalink:        "pretty"
 
 # Setup ########################################################################
 title:            "Blog do Lucão"
 tagline:          "Bugador!"
 description:      "Bugador!"
 url:              "https://lucrib.github.io"
-baseurl:          "/blog/"
+baseurl:          "/blog"
 
 author:
   name:           "Lucas Ribeiro"
