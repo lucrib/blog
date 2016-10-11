@@ -35,6 +35,10 @@ gems:
   - jekyll-gist
   - redcarpet
   - pygments.rb
+  - jekyll-mentions
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-feed
 
 paginate_path: "page:num"
 
