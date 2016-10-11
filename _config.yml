@@ -39,6 +39,7 @@ gems:
   - jemoji
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
 
 paginate_path: "page:num"
 
