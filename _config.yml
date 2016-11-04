@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        "pretty"
 
 # Setup ########################################################################
-title:            "Blog do Lucão"
-tagline:          "Bugador!"
-description:      "Bugador!"
+title:            "LucRib"
+tagline:          "Automação de Testes e Qualidade de Software"
+description:      "Automação de Testes e Qualidade de Software"
 url:              "https://lucrib.github.io/blog"
 baseurl:          ""
 encoding:         "utf-8"
@@ -24,7 +24,7 @@ github:
   repo:           "https://github.com/lucrib"
 
 linkedin:
-  link:           "https://br.linkedin.com/in/lucasribeirotester/en/"
+  link:           "https://linkedin.com/in/lucrib/en/"
 
 author:
   name:           "Lucas Ribeiro"
