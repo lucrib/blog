@@ -9,7 +9,7 @@ image: "http://www.aparate-sudura.ro/_res/_wip/wip.gif"
 image-sm: "http://www.aparate-sudura.ro/_res/_wip/wip.gif"
 ---
 
-<h1>Em breve...</h3>
+<h1>Em breve...</h1>
 <figure>
   <img src="http://www.dspace3.com/underdev.gif" alt="Em breve..."/>
 </figure>
