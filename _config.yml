@@ -1,23 +1,23 @@
 # Site settings
 email: "lucasribeiro1990@gmail.com"
-baseurl: "/trophy-jekyll"
+baseurl: "/blog"
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics:
+google_analytics: "UA-85624987-1"
 
 # SEO settings
 title: "LucRib"
 description: "Bem vindo ao blog de LucRib"
 url: "https://lucrib.github.io/trophy-jekyll"
 twitter_username: "lucrib_"
-default_img: "/assets/images/bugs.jpg"
+default_img: "https://pbs.twimg.com/profile_images/854529093404155905/jlITFltG_400x400.jpg"
 
 # Profile settings
 name: "LucRib"
 profile_img: "https://pbs.twimg.com/profile_images/854529093404155905/jlITFltG_400x400.jpg"
-profile: "This is a brief explanations of your profile that will appear in all the posts pages."
+profile: "Lucas Ribeiro já foi panfleteiro, axuxiliar de confeiteiro, motorista, locutor e vendendor de peixes em feiras livres. Agora é formado em Ciência da Computação e atua como Analista de Testes. Sempre que possível compartilha seus conhecimentos da area através deste blog."
 social:
-  github: "https://github.com/lucrib/trophy-jekyll"
+  github: "https://github.com/lucrib/blog/"
   linkedin: "https://linkedin.com/lucrib"
   twitter: "https://twitter.com/lucrib_"
   facebook: "https://facebook.com/lucrib"
