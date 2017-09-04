@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://lucrib.github.io/trophy-jekyll/trophy-jekyll/archive/</loc>
+<loc>https://lucrib.github.io/trophy-jekyll/blog/2017/09/04/em-breve/</loc>
+<lastmod>2017-09-04T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>https://lucrib.github.io/trophy-jekyll/trophy-jekyll/</loc>
+<loc>https://lucrib.github.io/trophy-jekyll/blog/archive/</loc>
+</url>
+<url>
+<loc>https://lucrib.github.io/trophy-jekyll/blog/</loc>
+</url>
+<url>
+<loc>https://lucrib.github.io/trophy-jekyll/blog/category/work-in-progress/</loc>
 </url>
 </urlset>
