@@ -1,49 +1,35 @@
-# Dependencies #################################################################
-markdown:         kramdown
-highlighter:      rouge
+# Site settings
+email: "lucasribeiro1990@gmail.com"
+baseurl: "/trophy-jekyll"
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics:
 
-# Permalinks ###################################################################
-permalink:        "pretty"
+# SEO settings
+title: "LucRib"
+description: "Bem vindo ao blog de LucRib"
+url: "https://lucrib.github.io/trophy-jekyll"
+twitter_username: "lucrib_"
+default_img: "/assets/images/bugs.jpg"
 
-# Setup ########################################################################
-title:            "LucRib"
-tagline:          "Automação de Testes e Qualidade de Software"
-description:      "Automação de Testes e Qualidade de Software"
-url:              "https://lucrib.github.io/blog"
-baseurl:          ""
-encoding:         "utf-8"
-timezone:         "America/Sao_Paulo"
+# Profile settings
+name: "LucRib"
+profile_img: "https://pbs.twimg.com/profile_images/854529093404155905/jlITFltG_400x400.jpg"
+profile: "This is a brief explanations of your profile that will appear in all the posts pages."
+social:
+  github: "https://github.com/lucrib/trophy-jekyll"
+  linkedin: "https://linkedin.com/lucrib"
+  twitter: "https://twitter.com/lucrib_"
+  facebook: "https://facebook.com/lucrib"
 
-paginate:         5
+# Build settings
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md", "vendor"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
 
-# Custom vars ##################################################################
-version:          00.01.00-ALPHA_1
+# Sass
+sass:
+  style: compressed
 
-# Social media #################################################################
-github:
-  repo:           "https://github.com/lucrib"
-
-linkedin:
-  link:           "https://linkedin.com/in/lucrib/en/"
-
-author:
-  name:           "Lucas Ribeiro"
-  url:            "https://twitter.com/lucao_ribeiro"
-#Gems ##########################################################################
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-  - redcarpet
-  - pygments.rb
-  - jekyll-mentions
-  - jemoji
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-
-paginate_path: "page:num"
-
-# Own Headers ##################################################################
-webrick:
-    headers:
-      selenium-ready: true
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
