@@ -15,7 +15,10 @@ default_img: "https://pbs.twimg.com/profile_images/854529093404155905/jlITFltG_4
 # Profile settings
 name: "LucRib"
 profile_img: "https://pbs.twimg.com/profile_images/854529093404155905/jlITFltG_400x400.jpg"
-profile: "Lucas Ribeiro já foi panfleteiro, axuxiliar de confeiteiro, motorista, locutor e vendendor de peixes em feiras livres. Agora é formado em Ciência da Computação e atua como Analista de Testes. Sempre que possível compartilha seus conhecimentos da area através deste blog."
+profile: "Lucas Ribeiro - Estou há mais de 5 anos na área de testes e atualmente
+ sou Desenvolvedor de Aplicações Embarcadas no FIT-Instituto de Tecnologia.
+Atualmente programo mais em C/C++, porém já fiz muita automação de testes com
+ python e java e continuo antenado nos fóruns de testes, especialmente sobre automação."
 social:
   github: "https://github.com/lucrib/blog/"
   linkedin: "https://linkedin.com/lucrib"
