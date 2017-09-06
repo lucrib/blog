@@ -8,6 +8,7 @@ categories:
   - Automação-de-Testes
   - Primeiro-Post
 description: "5 dicas para ajudar você que quer começar a automatizar seus testes."
+comments_enabled: true
 image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
 image-sm: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
 ---

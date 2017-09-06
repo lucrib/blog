@@ -5,6 +5,7 @@ date: 2017-09-04
 categories:
   - Work-In-Progress
 description: "Em breve..."
+comments_enabled: true
 image: "http://www.aparate-sudura.ro/_res/_wip/wip.gif"
 image-sm: "http://www.aparate-sudura.ro/_res/_wip/wip.gif"
 ---
