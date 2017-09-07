@@ -3,10 +3,10 @@
   <channel>
     <title>LucRib</title>
     <description>Bem vindo ao blog de LucRib</description>
-    <link>https://lucrib.github.io/trophy-jekyll/blog/</link>
-    <atom:link href="https://lucrib.github.io/trophy-jekyll/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Sep 2017 20:51:27 -0300</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2017 20:51:27 -0300</lastBuildDate>
+    <link>https://lucrib.github.io/blog/blog/</link>
+    <atom:link href="https://lucrib.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 Sep 2017 21:02:31 -0300</pubDate>
+    <lastBuildDate>Wed, 06 Sep 2017 21:02:31 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;/figure&gt;
 </description>
         <pubDate>Mon, 04 Sep 2017 00:00:00 -0300</pubDate>
-        <link>https://lucrib.github.io/trophy-jekyll/blog/2017/09/04/em-breve/</link>
-        <guid isPermaLink="true">https://lucrib.github.io/trophy-jekyll/blog/2017/09/04/em-breve/</guid>
+        <link>https://lucrib.github.io/blog/blog/2017/09/04/em-breve/</link>
+        <guid isPermaLink="true">https://lucrib.github.io/blog/blog/2017/09/04/em-breve/</guid>
         
         
         <category>Work-In-Progress</category>
