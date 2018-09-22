@@ -44,17 +44,21 @@ newPostFileName: "{year}-{month}-{day}-{slug}{extension}"
 # front matter date format, determines the {date} in frontMatter
 frontMatterDate: "{year}-{month}-{day} {hour}:{minute}"
 # front matter template
+frontMatterCustomFields:
+  author: "Lucas Ribeiro"
+  description: ""
+  postImageURL: ""
+  postSmallImageURL: ""
+
 frontMatter: """
 ---
 layout: "{layout}"
 title: "{title}"
 date: "{date}"
-categories:
-  - 
-description: ""
+description: {description}
 comments_enabled: true
-image: ""
-image-sm: ""
+image: {postImageURL}
+image-sm: {postSmallImageURL}
 ---
 """
 
