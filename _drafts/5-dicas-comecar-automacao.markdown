@@ -1,62 +1,60 @@
 ---
 layout: post
-title: "5 dicas para começar a automatizar seus testes"
-date: 2017-09-09
+title: "5 dicas para iniciar a automatizar seus testes"
+date: 2018-09-22
 categories:
   - Dicas
   - Iniciante
-  - Automação-de-Testes
-  - Primeiro-Post
-description: "5 dicas para ajudar você que quer começar a automatizar seus testes."
+  - Automação
+description: "Compartilho neste post 5 dicas baseadas em minha experiência para quem quer inciar no mundo da automação de testes."
 comments_enabled: true
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-image-sm: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
+image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?dpr=1&auto=format&fit=crop&w=2000&h=1200&q=80&cs=tinysrgb"
+image-sm: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?dpr=1&auto=format&fit=crop&w=500&h=300&q=80&cs=tinysrgb"
 ---
-This is a simple blog post
 
+Vejo que a automação de testes é um requisito que está se tornando cada vez mais comum.
+E me parece também haver cada vez mais pessoas que não sabem por onde começar.
 
-Teste:
-  - Teste 0
-  - Teste 1
-  - Teste 2
+Nos últimos anos participei de eventos como o Testadores[^Testadores], QANinja Conference[^QANinjaConf] e TDC[^TDC].
+Durante esses eventos notei algumas perguntas pertinentes, como por exemplo:
 
-<ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ul>
+- Como eu inicio com a automação de testes?
+- Meu chefe me pediu para automatizar os testes. Por onde eu começo?
+- O que devo estudar para conseguir uma vaga de automação de testes?
+- O que eu devo automatizar primeiro?
 
-<ol>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ol>
+Isso me fez lembrar de quando me fazia estas mesmas perguntas.
 
-<h3>Subway tile</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
+Através deste primeiro post quero descrever sobre 5 dicas para quem quer começar a automatizar os seus testes, independente do nível de conhecimento ou qual tipo de teste quer automatizar.
 
-<figure>
-  <img src="http://www.sp2corp.com.br/wp-content/uploads/2015/11/test-automation-banner-top1.jpg" alt="Automação de Testes"/>
-  <figcaption>Automação de Testes</figcaption>
-</figure>
+[^TDC]: [The Developers Conference](http://www.thedevelopersconference.com.br) ocorre 3 vezes ao ano em localidades diferentes e sempre contém uma grade bastante completa, incluindo uma trilha relacionada a qualidade de software.
+[^Testadores]: Evento focado na comunidade de testes de software. Ocorreu em São Paulo nos anos de 2014 e 2015. [Aqui](http://www.matera.com/br/2015/10/26/testadores-2015-eu-vou/) você encontra um post da [Ariane Izac](https://twitter.com/arianizac) comentando sobre a 2ª edição do evento.
+[^QANinjaConf]: Evento focado em qualidade de software, [100% online e gratuito](http://www.qaninjaconference.com/2016/) organizado pelo pessoal da [QANinja](https://qaninja.io/).
 
-Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
+## Aprenda uma linguagem de programação
 
-<blockquote>
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-  <cite>Man braid</cite>
-</blockquote>
+Mesmo que a sua empresa já possua ou tenha a intenção de comprar uma ferramenta para automatizar os testes, em algum momento ou outro você precisará codificar. E se não tiver domínio de pelo menos uma linguagem de programação - qualquer que seja - você encontrará mais dificuldades para certas tarefas. Caso não for utilizar ferramentas pagas, mais talvez algum framework de automação como o Selenium (que é código-aberto e gratuito), saber programar já é um pré-requisito.
 
-<h4>Subway tile</h4>
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
+Se você ainda não codifica, ou está há um bom tempo sem programar, recomendo que comece a estudar. Ter um bom conhecimento sobre programação te ajuda a resolver os problemas de forma mais fácil e organizada. Além disso, havendo o domínio de alguma linguagem de programação, para dominar outra é questão de tempo e dedicação. Digo isso, pois, ferramentas de automação de testes normalmente permitem que você use alguma linguagem de programação para 'turbinar' seus scripts e criar ações que a ferramenta não suporta por padrão.
 
-<figure>
-  <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
-  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
-</figure>
+Portanto, antes de mais nada, escolha entre uma das [linguagens de programação mais utilizas no mercado](https://www.showmetech.com.br/as-linguagens-de-programacao-mais-usadas-de-2017-ate-julho/) [^Rankings] e comece a estudar. Aprenda a sua sintaxe, as principais bibliotecas da linguagem, os principais frameworks (pelo menos saber quais são e seus propósitos) e também as melhores práticas  e padrões para a linguagem escolhida.
 
-Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.
+[^Rankings]: Veja [aqui](https://www.showmetech.com.br/as-linguagens-de-programacao-mais-usadas-de-2017-ate-julho/) um artigo interessante sobre alguns rankings de linguagens de programção.
 
-Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90's kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.
+## Aprenda sobre o padrão xUnit
+
+Texto em construção.
+
+## Aprenda sobre o framework xUnit da linguagem escolhida
+
+Texto em construção.
+
+## Aprenda sobre framerworks pra seus testes
+
+Texto em construção.
+
+## Pratique até morrer de tédio
+
+Texto em construção.
+
+-----
