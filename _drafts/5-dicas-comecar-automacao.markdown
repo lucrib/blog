@@ -4,18 +4,21 @@ title: "5 dicas para iniciar a automatizar seus testes"
 date: 2018-09-22
 categories:
   - Dicas
-  - Iniciante
-  - Automação
-description: "Compartilho neste post 5 dicas baseadas em minha experiência para quem quer inciar no mundo da automação de testes."
+  - Qualidade de Software
+  - Automação de Testes
+description:
+  "Compartilho neste post 5 dicas baseadas em minha experiência quem quer inciar
+   no mundo da automação de testes."
 comments_enabled: true
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?dpr=1&auto=format&fit=crop&w=2000&h=1200&q=80&cs=tinysrgb"
-image-sm: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?dpr=1&auto=format&fit=crop&w=500&h=300&q=80&cs=tinysrgb"
+image: "/blog/assets/img/profile.jpg"
+image-sm: "/blog/assets/img/profile.jpg"
 ---
+![Me](/blog/assets/img/profile.jpg)
 
 Vejo que a automação de testes é um requisito que está se tornando cada vez mais comum.
 E me parece também haver cada vez mais pessoas que não sabem por onde começar.
 
-Nos últimos anos participei de eventos como o Testadores[^Testadores], QANinja Conference[^QANinjaConf] e TDC[^TDC].
+Nos últimos anos participei de eventos como o Testadores [^Testadores], QANinja Conference [^QANinjaConf] e TDC [^TDC].
 Durante esses eventos notei algumas perguntas pertinentes, como por exemplo:
 
 - Como eu inicio com a automação de testes?

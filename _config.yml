@@ -7,20 +7,19 @@ google_analytics: "UA-85624987-1"
 
 # SEO settings
 title: "LucRib"
-description: "Bem vindo ao blog de LucRib"
+description:
+  "Blog pessoal de Lucas Ribeiro com posts sobre desenvolvimento de software, tecnologia, intermcâmbio,
+  a vida o universo e tudos mais..."
 url: "https://lucrib.github.io/blog"
 twitter_username: "lucrib_"
-default_img: "https://pbs.twimg.com/profile_images/854529093404155905/jlITFltG_400x400.jpg"
+default_img: "/assets/img/profile.jpg"
 
 # Profile settings
 name: "LucRib"
-profile_img: "https://pbs.twimg.com/profile_images/854529093404155905/jlITFltG_400x400.jpg"
-profile: "Lucas Ribeiro - Estou há mais de 5 anos na área de testes e atualmente
- sou Desenvolvedor de Aplicações Embarcadas no FIT-Instituto de Tecnologia.
-Atualmente programo mais em C/C++, porém já fiz muita automação de testes com
- python e java e continuo antenado nos fóruns de testes, especialmente sobre automação."
+profile_img: "/assets/img/profile.jpg"
+profile: "Lucas Ribeiro - Desenvolvedor de software com foco em testes automatizados."
 social:
-  github: "https://github.com/lucrib/blog/"
+  github: "https://github.com/lucrib"
   linkedin: "https://linkedin.com/lucrib"
   twitter: "https://twitter.com/lucrib_"
   facebook: "https://facebook.com/lucrib"
