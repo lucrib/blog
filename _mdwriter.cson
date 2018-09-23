@@ -17,7 +17,7 @@ siteUrl: "https://lucrib.github.io/blog/"
 
 # root directory of your blog
 # e.g. leave empty to source the current project path (recommended)
-siteLocalDir: "~/Projects/blog/"
+siteLocalDir: ""
 # directory to drafts from siteLocalDir
 siteDraftsDir: "_drafts/"
 # directory to posts from siteLocalDir

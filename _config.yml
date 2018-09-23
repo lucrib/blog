@@ -12,11 +12,11 @@ description:
   a vida o universo e tudos mais..."
 url: "https://lucrib.github.io/blog"
 twitter_username: "lucrib_"
-default_img: "/assets/img/profile.jpg"
+default_img: "https://lucrib.github.io/blog/assets/img/profile.jpg"
 
 # Profile settings
 name: "LucRib"
-profile_img: "/assets/img/profile.jpg"
+profile_img: "/blog/assets/img/profile.jpg"
 profile: "Lucas Ribeiro - Desenvolvedor de software com foco em testes automatizados."
 social:
   github: "https://github.com/lucrib"
