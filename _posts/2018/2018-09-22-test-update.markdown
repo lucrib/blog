@@ -19,7 +19,7 @@ tags:
 
 [Link](www.google.com)
 
-![Photo by Franck V. on Unsplash](/blog/assets/img/2018/09/robot.jpg)
+![Photo by Franck V. on Unsplash](/blog/assets/img/robot.jpg)
 
 `print 'hello world'`
 
