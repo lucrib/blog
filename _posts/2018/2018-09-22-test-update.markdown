@@ -7,12 +7,13 @@ categories:
   - update
 description: Test update
 comments_enabled: true
-image: ''
-image-sm: ''
+image: "/blog/assets/img/profile.jpg"
+image-sm: "/blog/assets/img/profile.jpg"
 tags:
   - test
   - update
 ---
+![Me](/blog/assets/img/profile.jpg)
 
 **Test** _update_!
 
