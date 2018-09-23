@@ -7,8 +7,8 @@ categories:
   - update
 description: Test update
 comments_enabled: true
-image: "/blog/assets/img/profile.jpg"
-image-sm: "/blog/assets/img/profile.jpg"
+image: "/blog/assets/img/robot.jpg"
+image-sm: "/blog/assets/img/robot.jpg"
 tags:
   - test
   - update
@@ -19,9 +19,11 @@ tags:
 
 [Link](www.google.com)
 
-![LR](/blog/assets/img/2018/09/Screenshot from 2018-09-22 18-17-02.png)
+![Photo by Franck V. on Unsplash](/blog/assets/img/2018/09/robot.jpg)
 
 `print 'hello world'`
+
+<script src="https://gist.github.com/lucrib/c13dd13efbab4ba4db61fd70b06b8398.js"></script>
 
 - one
 - two
