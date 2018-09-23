@@ -19,7 +19,7 @@ tags:
 
 [Link](www.google.com)
 
-![LR](assets/img/2018/09/Screenshot from 2018-09-22 18-17-02.png)
+![LR](/blog/assets/img/2018/09/Screenshot from 2018-09-22 18-17-02.png)
 
 `print 'hello world'`
 

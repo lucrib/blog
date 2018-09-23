@@ -3,9 +3,9 @@ layout: post
 title: "5 dicas para iniciar a automatizar seus testes"
 date: 2018-09-22
 categories:
-  - Dicas
-  - Qualidade de Software
-  - Automação de Testes
+  - dicas
+  - qualidade-de-software
+  - automação-de-testes
 description:
   "Compartilho neste post 5 dicas baseadas em minha experiência quem quer inciar
    no mundo da automação de testes."
