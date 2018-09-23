@@ -13,8 +13,6 @@ comments_enabled: true
 image: "/blog/assets/img/profile.jpg"
 image-sm: "/blog/assets/img/profile.jpg"
 ---
-![Me](/blog/assets/img/profile.jpg)
-
 Vejo que a automação de testes é um requisito que está se tornando cada vez mais comum.
 E me parece também haver cada vez mais pessoas que não sabem por onde começar.
 

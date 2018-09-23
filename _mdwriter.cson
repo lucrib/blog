@@ -21,10 +21,10 @@ siteLocalDir: ""
 # directory to drafts from siteLocalDir
 siteDraftsDir: "_drafts/"
 # directory to posts from siteLocalDir
-sitePostsDir: "_posts/{year}/"
+sitePostsDir: "_posts/{year}/{month}"
 # directory to images from siteLocalDir
 # e.g. to use the current filename directory, can use {directory}
-siteImagesDir: "assets/img/{year}/{month}/"
+siteImagesDir: "/assets/img/{year}/{month}/{slug}/"
 
 # URLs to tags/posts/categories JSON files
 # https://github.com/zhuochun/md-writer/wiki/Settings-for-Front-Matters
@@ -47,8 +47,6 @@ frontMatterDate: "{year}-{month}-{day} {hour}:{minute}"
 frontMatterCustomFields:
   author: "Lucas Ribeiro"
   description: ""
-  postImageURL: ""
-  postSmallImageURL: ""
 
 frontMatter: """
 ---
@@ -57,8 +55,8 @@ title: "{title}"
 date: "{date}"
 description: {description}
 comments_enabled: true
-image: {postImageURL}
-image-sm: {postSmallImageURL}
+image: "{baseurl}/assets/img/{year}/{month}/{slug}/post-image.jpg"
+image-sm: "{baseurl}/assets/img/{year}/{month}/{slug}/post-image-small.jpg"
 ---
 """
 
@@ -142,7 +140,7 @@ imageTag: "![{alt}]({src})"
 # use relative path to image from the opened file
 relativeImagePath: false
 # rename copyed image based on title/alt
-renameImageOnCopy: false
+renameImageOnCopy: true
 
 # inline link tag template
 linkInlineTag: "[{text}]({url})"
